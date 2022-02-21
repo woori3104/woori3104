@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm woori</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woori3104&label=Profile%20views&color=0e75b6&style=flat" alt="woori3104" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=woori3104" alt="woori3104" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=woori3104&column=3&margin-w=15&margin-h=15" alt="woori3104" /></a> </p>
 
 - 📫 How to reach me **woori.kim.se@gmail.com**
 
